@@ -23,8 +23,8 @@ This project allows users to place bets on the future prices of tokens on the zk
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/token-price-betting.git
-    cd token-price-betting
+    git clone https://github.com/Sakibimam/Betting-dApps-with-ZKsync.git
+    cd Betting-dApps-with-ZKsync
     ```
 
 2. **Install dependencies**:
